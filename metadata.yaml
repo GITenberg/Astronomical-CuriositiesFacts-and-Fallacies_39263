@@ -1,0 +1,28 @@
+_repo: Astronomical-CuriositiesFacts-and-Fallacies_39263
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39263-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gore, J. Ellard (John Ellard)
+    alias: Gore, John Ellard
+    birthdate: 1845
+    deathdate: 1910
+    gutenberg_agent_id: '39925'
+    url: http://www.gutenberg.org/2009/agents/39925
+description: ''
+gutenberg_issued: '2012-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Solar system -- Miscellanea'
+- !lcsh 'Astronomy -- Miscellanea'
+- !lcc 'QB'
+title: 'Astronomical Curiosities: Facts and Fallacies'
+url: http://www.gutenberg.org/ebooks/39263
